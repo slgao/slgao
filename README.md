@@ -92,6 +92,12 @@
 
 ---
 
+## Languages
+
+🇬🇧 English — C2 &nbsp;|&nbsp; 🇩🇪 German — C1 &nbsp;|&nbsp; 🇨🇳 Chinese (Mandarin) — Native
+
+---
+
 ## Connect
 
 [![Email](https://img.shields.io/badge/svenslgao@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:svenslgao@gmail.com)
