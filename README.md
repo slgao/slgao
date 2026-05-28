@@ -1,7 +1,4 @@
 <h1 align="center">Shulin Gao</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slgao&style=flat&color=2196F3&label=profile+views" alt="profile views"/>
-</p>
 <h3 align="center">AI & Data Engineer · LLM Systems · Cloud · Berlin</h3>
 
 <p align="center">
@@ -86,3 +83,5 @@
 
 [![Email](https://img.shields.io/badge/svenslgao@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:svenslgao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/shulin--gao-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shulin-gao)
+
+<img src="https://komarev.com/ghpvc/?username=slgao&style=flat&color=lightgrey&label=views" alt="profile views"/>
