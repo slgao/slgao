@@ -38,7 +38,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slgao&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20Past%2012%20Months" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/slgao" alt="GitHub contribution calendar" />
 </p>
 
 <p align="center">
