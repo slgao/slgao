@@ -35,15 +35,15 @@
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slgao&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slgao&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slgao&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20Past%2012%20Months" alt="Contribution graph" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=slgao&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slgao&theme=default" height="150"/>
 </p>
 
 ---
@@ -53,10 +53,10 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [iHunter](https://github.com/slgao/iHunter) | Agentic LLM platform for B2B lead discovery — multi-agent orchestration, automated data enrichment & quality assessment | Python · Groq · LLaMA 3 · FastAPI · aiosqlite |
-| [YOLOv8-TensorRT](https://github.com/slgao/YOLOv8-TensorRT) | Real-time object detection with TensorRT acceleration | C++ · CUDA · TensorRT |
-| [kleinanzeigen-scraper](https://github.com/slgao/kleinanzeigen-scraper) | Full-stack scraper with browser UI, price & location analytics | Python · FastAPI |
-| [AWS Pedestrian Detection](https://github.com/slgao/AWS-Pedestrian-Detection-System) | Event-driven ML pipeline: S3 → SNS → Lambda → RDS · Terraform IaC | AWS · HCL |
-| [cfd](https://github.com/slgao/cfd) | Computational fluid dynamics solver (SPH / HPC) — TU Munich | C · MPI |
+| [landlord\_system](https://github.com/slgao/landlord_system) | Property management for German landlords — rent tracking, utility billing, and PDF generation | Python · PostgreSQL · FastAPI |
+| [AWS Pedestrian Detection](https://github.com/slgao/AWS-Pedestrian-Detection-System) | Event-driven ML pipeline: S3 → SNS → Lambda → RDS · Terraform IaC | AWS · Python · HCL |
+| [MonoSLAMAutoCalibration](https://github.com/slgao/MonoSLAMAutoCalibration) | M.Sc. thesis — monocular SLAM for automatic camera self-calibration of surgical endoscopes (Gaussian Sum Filter) | C++ · OpenCV · ROS |
+| [kleinanzeigen-scraper](https://github.com/slgao/kleinanzeigen-scraper) | Full-stack scraper with browser UI, price & location analytics | Python · FastAPI · PostgreSQL |
 
 ---
 
