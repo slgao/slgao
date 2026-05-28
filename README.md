@@ -94,7 +94,7 @@
 
 ## Languages
 
-🇬🇧 English — C2 &nbsp;|&nbsp; 🇩🇪 German — C1 &nbsp;|&nbsp; 🇨🇳 Chinese (Mandarin) — Native
+🇬🇧 English — C2 &nbsp;·&nbsp; Cambridge BEC Higher &nbsp;|&nbsp; 🇩🇪 German — C1 &nbsp;|&nbsp; 🇨🇳 Chinese (Mandarin) — Native
 
 ---
 
