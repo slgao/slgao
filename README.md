@@ -1,8 +1,13 @@
 <h1 align="center">Shulin Gao</h1>
-<h3 align="center">Senior AI/ML Engineer · Berlin · Multi-Sensor Vision · LLM Systems</h3>
+<h3 align="center">AI & Data Engineer · LLM Systems · Cloud · Berlin</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=10%2B+years+production+deep+learning;Cross-modal+sensor+fusion+%7C+Railway+AI;LLM+agents+%7C+FastAPI+%7C+CUDA+%7C+HPC;M.Sc.+TU+Munich+%7C+Published+researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Agentic+AI+systems+%7C+LLM+pipelines+%7C+RAG;Data+engineering+%7C+Event-driven+cloud+%7C+AWS;10%2B+yrs+ML%2FDL+on+multi-sensor+vision+data;Foundation+models+%7C+CUDA+%7C+HPC;M.Sc.+TU+Munich+%7C+Published+researcher" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Building production AI systems that connect <strong>large language models</strong> and <strong>agentic pipelines</strong><br/>
+  to real-world data — from multi-sensor vision streams to cloud-native data engineering.
 </p>
 
 ---
