@@ -1,4 +1,7 @@
 <h1 align="center">Shulin Gao</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=slgao&style=flat&color=2196F3&label=profile+views" alt="profile views"/>
+</p>
 <h3 align="center">AI & Data Engineer · LLM Systems · Cloud · Berlin</h3>
 
 <p align="center">
@@ -12,10 +15,6 @@
 
 <p align="center">
   🔭 &nbsp;Currently building agentic AI &amp; data engineering systems &nbsp;|&nbsp; 💼 &nbsp;Open to AI Engineer · Data Engineer roles
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slgao&style=flat&color=2196F3&label=profile+views" alt="profile views"/>
 </p>
 
 ---
