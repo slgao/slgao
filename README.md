@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Shulin Gao</h1>
+<h3 align="center">Senior AI/ML Engineer · Berlin · Multi-Sensor Vision · LLM Systems</h3>
 
-<!--
-**slgao/slgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=10%2B+years+production+deep+learning;Cross-modal+sensor+fusion+%7C+Railway+AI;LLM+agents+%7C+FastAPI+%7C+CUDA+%7C+HPC;M.Sc.+TU+Munich+%7C+Published+researcher" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**ML / Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**Data & Cloud**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+**LLM / Agents**  
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slgao&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slgao&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=slgao&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [iHunter](https://github.com/slgao/iHunter) | Agentic LLM platform for B2B lead discovery — multi-agent orchestration, automated data enrichment & quality assessment | Python · Groq · LLaMA 3 · FastAPI · aiosqlite |
+| [YOLOv8-TensorRT](https://github.com/slgao/YOLOv8-TensorRT) | Real-time object detection with TensorRT acceleration | C++ · CUDA · TensorRT |
+| [kleinanzeigen-scraper](https://github.com/slgao/kleinanzeigen-scraper) | Full-stack scraper with browser UI, price & location analytics | Python · FastAPI |
+| [AWS Pedestrian Detection](https://github.com/slgao/AWS-Pedestrian-Detection-System) | Event-driven ML pipeline: S3 → SNS → Lambda → RDS · Terraform IaC | AWS · HCL |
+| [cfd](https://github.com/slgao/cfd) | Computational fluid dynamics solver (SPH / HPC) — TU Munich | C · MPI |
+
+---
+
+## Publications
+
+- **S. Gao et al.** — *Multi-modal defect classification for railway inspection* · ECNDT 2018 (first author)
+- **S. Gao et al.** — *Cross-sensor data fusion for rail surface analysis* · WCNDT 2016
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/svenslgao@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:svenslgao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/shulin--gao-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shulin-gao)
