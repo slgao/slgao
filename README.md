@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Engineer · LLM Systems · Cloud · Berlin</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Agentic+AI+systems+%7C+LLM+pipelines+%7C+RAG;Data+engineering+%7C+Event-driven+cloud+%7C+AWS;10%2B+yrs+ML%2FDL+on+multi-sensor+vision+data;Foundation+models+%7C+CUDA+%7C+HPC;M.Sc.+TU+Munich+%7C+Published+researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Agentic+AI+systems+%7C+LLM+pipelines+%7C+RAG;Data+engineering+%7C+Event-driven+cloud+%7C+AWS;10%2B+yrs+ML%2FDL+on+multi-sensor+vision+data;Foundation+models+%7C+CUDA+%7C+HPC;M.Sc.+TU+Munich+%7C+Published+researcher" alt="Shulin Gao — AI Engineer, Data Engineer, LLM systems, PyTorch, CUDA, AWS, Berlin" />
 </p>
 
 ---
@@ -12,6 +12,8 @@
 - 🏭 **10 years** production AI/ML at Eurailscout — deep learning systems for national-scale railway inspection across optical, ultrasound & eddy-current sensors
 - 🤖 Now building **agentic LLM systems** and **cloud-native data pipelines** that bridge foundation models with real-world sensor and business data
 - 🎓 M.Sc. Computational Science & Engineering, **TU Munich** (Grade 1.8) · Published researcher (ECNDT 2018 first author · WCNDT 2016)
+
+**Skills:** Python · C++ · PyTorch · CUDA · TensorRT · LLM · RAG · multi-agent systems · FastAPI · AWS · Terraform · Docker · PostgreSQL · MongoDB · RabbitMQ · OpenCV · MLflow · data pipelines · computer vision · HPC
 
 💼 &nbsp;Open to **AI Engineer** and **Data Engineer** roles in Berlin
 
@@ -61,8 +63,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slgao&theme=default" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slgao&theme=default" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slgao&theme=default" height="150" alt="Shulin Gao GitHub stats — commits, PRs, issues, code reviews"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slgao&theme=default" height="150" alt="Top languages by commit — Python, C++, C"/>
 </p>
 
 <p align="center">
