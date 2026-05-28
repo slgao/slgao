@@ -5,14 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Agentic+AI+systems+%7C+LLM+pipelines+%7C+RAG;Data+engineering+%7C+Event-driven+cloud+%7C+AWS;10%2B+yrs+ML%2FDL+on+multi-sensor+vision+data;Foundation+models+%7C+CUDA+%7C+HPC;M.Sc.+TU+Munich+%7C+Published+researcher" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Building production AI systems that connect <strong>large language models</strong> and <strong>agentic pipelines</strong><br/>
-  to real-world data — from multi-sensor vision streams to cloud-native data engineering.
-</p>
+---
 
-<p align="center">
-  🔭 &nbsp;Currently building agentic AI &amp; data engineering systems &nbsp;|&nbsp; 💼 &nbsp;Open to AI Engineer · Data Engineer roles
-</p>
+## About
+
+- 🏭 **10 years** production AI/ML at Eurailscout — deep learning systems for national-scale railway inspection across optical, ultrasound & eddy-current sensors
+- 🤖 Now building **agentic LLM systems** and **cloud-native data pipelines** that bridge foundation models with real-world sensor and business data
+- 🎓 M.Sc. Computational Science & Engineering, **TU Munich** (Grade 1.8) · Published researcher (ECNDT 2018 first author · WCNDT 2016)
+
+💼 &nbsp;Open to **AI Engineer** and **Data Engineer** roles in Berlin
 
 ---
 
@@ -31,7 +32,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **ML / Vision**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -39,6 +41,7 @@
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -74,8 +77,8 @@
 
 ## Publications
 
-- **S. Gao et al.** — *Multi-modal defect classification for railway inspection* · ECNDT 2018 (first author)
-- **S. Gao et al.** — *Cross-sensor data fusion for rail surface analysis* · WCNDT 2016
+- **S. Gao** et al. — *Multi-modal sensor fusion for automated railway defect classification* · ECNDT 2018 · **First author**
+- **S. Gao** et al. — *Cross-sensor data fusion for rail surface analysis* · WCNDT 2016
 
 ---
 
