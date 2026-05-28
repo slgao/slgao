@@ -10,9 +10,32 @@
   to real-world data — from multi-sensor vision streams to cloud-native data engineering.
 </p>
 
+<p align="center">
+  🔭 &nbsp;Currently building agentic AI &amp; data engineering systems &nbsp;|&nbsp; 💼 &nbsp;Open to AI Engineer · Data Engineer · PhD positions
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=slgao&style=flat&color=2196F3&label=profile+views" alt="profile views"/>
+</p>
+
 ---
 
 ## Tech Stack
+
+**LLM / Agents**  
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Data & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 **ML / Vision**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -25,18 +48,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-
-**Data & Cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-**LLM / Agents**  
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 
 ---
 
@@ -60,7 +71,7 @@
 | [iHunter](https://github.com/slgao/iHunter) | Agentic LLM platform for B2B lead discovery — multi-agent orchestration, automated data enrichment & quality assessment | Python · Groq · LLaMA 3 · FastAPI · aiosqlite |
 | [landlord\_system](https://github.com/slgao/landlord_system) | Property management for German landlords — rent tracking, utility billing, and PDF generation | Python · PostgreSQL · FastAPI |
 | [AWS Pedestrian Detection](https://github.com/slgao/AWS-Pedestrian-Detection-System) | Event-driven ML pipeline: S3 → SNS → Lambda → RDS · Terraform IaC | AWS · Python · HCL |
-| [MonoSLAMAutoCalibration](https://github.com/slgao/MonoSLAMAutoCalibration) | M.Sc. thesis — monocular SLAM for automatic camera self-calibration of surgical endoscopes (Gaussian Sum Filter) | C++ · OpenCV · ROS |
+| [MonoSLAMAutoCalibration](https://github.com/slgao/MonoSLAMAutoCalibration) | M.Sc. thesis — monocular SLAM for automatic camera self-calibration of surgical endoscopes (Gaussian Sum Filter) | C++ · OpenCV · Eigen |
 | [kleinanzeigen-scraper](https://github.com/slgao/kleinanzeigen-scraper) | Full-stack scraper with browser UI, price & location analytics | Python · FastAPI · PostgreSQL |
 
 ---
