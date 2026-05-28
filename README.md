@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🔭 &nbsp;Currently building agentic AI &amp; data engineering systems &nbsp;|&nbsp; 💼 &nbsp;Open to AI Engineer · Data Engineer · PhD positions
+  🔭 &nbsp;Currently building agentic AI &amp; data engineering systems &nbsp;|&nbsp; 💼 &nbsp;Open to AI Engineer · Data Engineer roles
 </p>
 
 <p align="center">
